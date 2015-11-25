@@ -4,9 +4,9 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>com.squareup.okio</groupId>
+    <groupId>cn.leancloud.android</groupId>
     <artifactId>okio-parent</artifactId>
-    <version>1.6.0</version>
+    <version>1.6.0-leancloud-SNAPSHOT</version>
   </parent>
 
   <artifactId>okio</artifactId>

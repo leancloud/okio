@@ -40,11 +40,11 @@ import org.openjdk.jmh.annotations.TearDown;
 import org.openjdk.jmh.annotations.Threads;
 import org.openjdk.jmh.annotations.Warmup;
 
-import okio.Buffer;
-import okio.BufferedSource;
-import okio.Okio;
-import okio.Sink;
-import okio.Timeout;
+import com.avos.avoscloud.okio.Buffer;
+import com.avos.avoscloud.okio.BufferedSource;
+import com.avos.avoscloud.okio.Okio;
+import com.avos.avoscloud.okio.Sink;
+import com.avos.avoscloud.okio.Timeout;
 
 import static java.util.Objects.requireNonNull;
 
