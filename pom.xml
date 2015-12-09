@@ -7,7 +7,7 @@
 
     <groupId>cn.leancloud.android</groupId>
     <artifactId>okio-parent</artifactId>
-    <version>1.6.0-leancloud-SNAPSHOT</version>
+    <version>1.6.0-leancloud</version>
     <packaging>pom</packaging>
     <name>Okio (Parent)</name>
     <description>A modern I/O API for Java</description>

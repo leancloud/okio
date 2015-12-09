@@ -6,7 +6,7 @@
   <parent>
     <groupId>cn.leancloud.android</groupId>
     <artifactId>okio-parent</artifactId>
-    <version>1.6.0-leancloud-SNAPSHOT</version>
+    <version>1.6.0-leancloud</version>
   </parent>
 
   <artifactId>okio</artifactId>
