@@ -4,12 +4,12 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>cn.leancloud.android</groupId>
+    <groupId>cn.leancloud</groupId>
     <artifactId>okio-parent</artifactId>
-    <version>1.6.0-leancloud</version>
+    <version>1.6.0</version>
   </parent>
 
-  <artifactId>okio</artifactId>
+  <artifactId>okio-leancloud</artifactId>
   <name>Okio</name>
 
   <dependencies>

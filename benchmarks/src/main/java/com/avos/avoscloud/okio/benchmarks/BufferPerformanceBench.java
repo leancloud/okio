@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.squareup.okio.benchmarks;
+package com.avos.avoscloud.okio.benchmarks;
 
 import java.io.EOFException;
 import java.io.File;
